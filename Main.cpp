@@ -4,7 +4,7 @@
 #include <fstream>
 #include <windows.h>
 #include <sstream>
-#include "aniruddha.hpp"
+#include "analyzer.hpp"
 #include "aditya.hpp"
 #include "abhilash.hpp"
 
